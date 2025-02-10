@@ -1,1 +1,18 @@
-# DA-Baby-step
+# PROJECT NAME: DA-Baby-step
+
+
+---
+# PROJECT OBJECTIVE
+
+
+---
+# DATA SOURCING
+
+
+---
+
+# DATA TRANSFORMATION
+
+
+---
+# FINDINGS AND RECOMMENDATION
